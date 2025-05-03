@@ -67,4 +67,4 @@ The goal is to analyze Netflix content to uncover trends related to release year
 **Kerollos Malak**  
 Data Analyst in training | Python, SQL, Excel  
 📧 keroartph@gmail.com  
-🔗[LinkedIn](#) https://www.linkedin.com/in/kerollos-malak-207998211/
+🔗[LinkedIn](https://www.linkedin.com/in/kerollos-malak-207998211/) 
